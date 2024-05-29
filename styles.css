@@ -73,6 +73,7 @@ p {
     font-size: 36px;
     color: hsl(158, 40%, 33%);
     margin-right: 50px;
+    font-weight: bold;
 }
 
 .strikethrough {
