@@ -33,6 +33,7 @@ Users should be able to:
 
 - Solution URL: [Github](https://github.com/Riska997/product-preview-card-component-main.git)
 - Live Site URL: [Github Pages](https://riska997.github.io/product-preview-card-component-main/)
+- Live Site URL: [Netlify](https://stellular-fudge-7066be.netlify.app)
 
 ## My process
 
